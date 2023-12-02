@@ -1,0 +1,9 @@
+<suite name="testsuite" verbose="1">
+
+<test name="MyFramework-Jenkins">
+<classes>
+<class name="tests.LoginTest">
+</class>
+</classes>
+</test>
+</suite>
